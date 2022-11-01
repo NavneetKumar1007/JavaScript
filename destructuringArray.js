@@ -3,7 +3,7 @@ console.log(names[0],names[2]);
 
 // Using Destructuring
 const [nameIndexZero, , ,nameIndexOne]=names;
-console.log(nameIndexOne,nameIndexOne);
+console.log(nameIndexZero,nameIndexOne);
 
 const arr=[1,2,[3,4]];
 const [i, ,j]=arr;
