@@ -11,7 +11,7 @@ const myName1="Navneet ";
 //myName1="kumar";
 console.log(myName1);
 
-//Hosting--> we cannt decalare variable without iitilizing it
+//Hosting--> we cannot decalare variable without initilizing it
 const myName2="Navneet";
 console.log(myName2);
 

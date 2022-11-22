@@ -8,7 +8,7 @@ const description={
         weight:'69'
     }
 }
-//This is a nested object
+//This is a nested object in Javascript
 
 // Destructure the oject
 const {

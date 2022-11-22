@@ -14,6 +14,6 @@ const trigger=function(event)
     event.preventDefault();
     document.querySelector('.container-description').textContent="Hello On Click View will change";
     document.querySelector('.Heading').textContent="Heading Changed on click";
-   
+    document.querySelector('.classy').classList.add('container--update');
 }
 document.querySelector('.container').addEventListener('click',trigger);
