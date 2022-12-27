@@ -9,7 +9,7 @@ const description={
     }
 }
 //This is a nested object in Javascript
-
+console.log("Navneet Good Morning");
 // Destructure the oject
 const {
     firstName:first,
